@@ -1,7 +1,11 @@
-## Hello 👋 My name is Rafif Rizal
-=====================================
+## 👋 Hey, I’m Rafif Rizal  
 
-### Student, Currently learn about Go
------------------------------------------------------------------------
+### 💻 Student & Aspiring Software Engineer  
+Learning, experimenting, and figuring out where to go next.  
 
-* 🌍  I'm based in East Java, Sidoarjo, Indonesia
+🏠 Based in Indonesia  
+🌱 Currently exploring different paths in software engineering  
+⚡ Sometimes I build random things just to learn  
+📬 Reach me on: [LinkedIn](https://www.linkedin.com/in/rafifrizal) · [Twitter](https://x.com/rapiprzl) · [Email](mailto:rafifrizali17@gmail.com)
+
+---
