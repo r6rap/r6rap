@@ -1,6 +1,6 @@
 ## 👋 Hey, I’m Rafif Rizal  
 
-### 💻 Student & Aspiring Software Engineer  
+### 💻 Student and Want to Become a Software Engineer
 Learning, experimenting, and figuring out where to go next.  
 
 🏠 Based in Indonesia  
