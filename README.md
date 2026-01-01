@@ -6,6 +6,6 @@ Learning, experimenting, and figuring out where to go next.
 🏠 Based in Indonesia  
 🌱 Currently exploring different paths in software engineering  
 ⚡ Sometimes I build random things just to learn  
-📬 Reach me on: [LinkedIn](https://www.linkedin.com/in/rafifrizal) · [Twitter](https://x.com/rapiprzl) · [Email](mailto:rafifrizali17@gmail.com)
+📬 Reach me on: [Twitter](https://x.com/rapiprzl) · [Email](mailto:rafifrizali17@gmail.com)
 
 ---
