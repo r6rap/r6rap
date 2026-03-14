@@ -1,4 +1,4 @@
-## 👋 Hey, I’m Rafif Rizal  
+## 👋 Hi there  
 
 ### 💻 Student and Want to Become a Software Engineer
 Learning, experimenting, and figuring out where to go next.  
